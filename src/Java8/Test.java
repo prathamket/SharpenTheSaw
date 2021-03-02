@@ -10,7 +10,10 @@ public static void main(String[] args) {
 	i.m1();
 	Interf i1 = () -> System.out.println("m1() called using lymbda");
 	i1.m1();
+	
+	System.out.println("sharpen the saw");
 }
+
 
 @Override
 public void m1() {
