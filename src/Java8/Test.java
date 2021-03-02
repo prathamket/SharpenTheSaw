@@ -15,12 +15,8 @@ public static void main(String[] args) {
 
 }
 
-
 @Override
 public void m1() {
-	// TODO Auto-generated method stub
-	
+	// TODO Auto-generated method stub	
 }
-
-
 }
